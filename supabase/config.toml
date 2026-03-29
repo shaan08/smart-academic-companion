@@ -1,0 +1,10 @@
+project_id = "akdocnoqoihpysrhpxwp"
+
+[functions.ai-chat]
+verify_jwt = false
+
+[functions.career-ai]
+verify_jwt = false
+
+[functions.code-ai]
+verify_jwt = false
