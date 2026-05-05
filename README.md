@@ -1,4 +1,4 @@
-# MentorMate AI
+# Smart Academic Companion
 
 Your Smart Academic Companion - AI-powered tools for studying, career planning, and academic success.
 
